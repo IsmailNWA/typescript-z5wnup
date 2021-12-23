@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/lodash": "^4.14.178",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
